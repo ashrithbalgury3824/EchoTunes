@@ -1,0 +1,16 @@
+# Core dependencies
+numpy
+pandas
+scikit-learn
+spotipy
+
+# Deep learning (if using Neural Networks for recommendation)
+tensorflow
+keras
+
+# Visualization
+matplotlib
+seaborn
+
+# Utility
+python-dotenv
